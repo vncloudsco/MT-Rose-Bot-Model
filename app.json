@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/vncloudsco/MT-Rose-Bot-Model",
+  "repository": "https://github.com/MRK-YT/MT-Rose-Bot-Model",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
@@ -23,11 +23,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1787630504"
+      "value": "667250870"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "thehackersno1"
+      "value": "DmVoDPI"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -42,19 +42,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1787630504"
+      "value": "667250870"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1787630504"
+      "value": "667250870"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1787630504"
+      "value": "667250870"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/vouuvhb"
+      "value": "t.me/DmVoDPI"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
